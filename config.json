@@ -1,0 +1,8 @@
+{
+	"dev": {
+		"DBHost": "mongodb://localhost/mern-playground-dev"
+	},
+	"test": {
+		"DBHost": "mongodb://localhost/mern-playground-test"
+	}
+}
